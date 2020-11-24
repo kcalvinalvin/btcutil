@@ -9,3 +9,5 @@ require (
 	github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23
 	golang.org/x/crypto v0.0.0-20200115085410-6d4e4cb37c7d
 )
+
+replace github.com/btcsuite/btcd => /home/calvin/bitcoin-projects/go/utreexo/go/src/github.com/btcsuite/btcd
